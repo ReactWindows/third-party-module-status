@@ -11,7 +11,7 @@ React Native Modules
 |[react-native-dialogs](https://github.com/aakashns/react-native-dialogs)|Not Started||
 |[react-native-fs](https://github.com/itinance/react-native-fs)|Not Started||
 |[react-native-http-bridge](https://github.com/alwx/react-native-http-bridge)|Not Started||
-|[react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n)|Not Started||
+|[react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n)|[AlexanderZaytsev/react-native-i18n#120](https://github.com/AlexanderZaytsev/react-native-i18n/pull/120)|[#3](https://github.com/ReactWindows/third-party-module-status/issues/3)|
 |[react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)|Not Started||
 |[react-native-image-resizer](https://github.com/bamlab/react-native-image-resizer)|Not Started||
 |[react-native-linear-gradient](https://github.com/react-native-community/react-native-linear-gradient)|Not Started||
