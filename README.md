@@ -5,11 +5,11 @@ React Native Modules
 |Name|Status|Issues|
 |----|------|------|
 |[instabug-reactnative](https://github.com/Instabug/instabug-reactnative)|Not Started||
-|[react-native-camera](https://github.com/lwansbrough/react-native-camera)|Not Started||
+|[react-native-camera](https://github.com/lwansbrough/react-native-camera)|[lwansbrough/react-native-camera#862](https://github.com/lwansbrough/react-native-camera/pull/862)|[#10](https://github.com/ReactWindows/third-party-module-status/issues/10)|
 |[react-native-config](https://github.com/luggit/react-native-config)|Not Started||
 |[react-native-contacts](https://github.com/rt2zz/react-native-contacts)|Not Started||
 |[react-native-dialogs](https://github.com/aakashns/react-native-dialogs)|Not Started||
-|[react-native-fs](https://github.com/itinance/react-native-fs)|Not Started||
+|[react-native-fs](https://github.com/itinance/react-native-fs)|[itinance/react-native-fs#337](https://github.com/itinance/react-native-fs/pull/337)|[#7](https://github.com/ReactWindows/third-party-module-status/issues/7)|
 |[react-native-http-bridge](https://github.com/alwx/react-native-http-bridge)|Not Started||
 |[react-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n)|[AlexanderZaytsev/react-native-i18n#120](https://github.com/AlexanderZaytsev/react-native-i18n/pull/120)|[#3](https://github.com/ReactWindows/third-party-module-status/issues/3)|
 |[react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker)|Not Started||
